@@ -1,4 +1,4 @@
-# module-azure-resource-group
+# terraform-module-azure-resource-group
 
 Terraform module to provision a [Resource Group](<https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview#resource-groups>).
 
